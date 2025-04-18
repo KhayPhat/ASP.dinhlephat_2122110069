@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DinhLePhat_2122110069")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df0beef0d076fad5ca1b918840ccd26327af5a23")]
 [assembly: System.Reflection.AssemblyProductAttribute("DinhLePhat_2122110069")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DinhLePhat_2122110069")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

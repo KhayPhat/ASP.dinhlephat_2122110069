@@ -1,6 +1,6 @@
-﻿namespace DinhLePhat_2122110069.Models
+﻿namespace DinhLePhat_2122110069.Model
 {
-    public class Product
+    public class Category
     {
         public int Id { get; set; }
         public string Name { get; set; }
