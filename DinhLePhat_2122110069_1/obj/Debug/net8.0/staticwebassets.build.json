@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "QatJSzr+3aT0sEBvh5YvZmYXSJwSqGYxbFqwXFeBrhM=",
+  "Source": "DinhLePhat_2122110069",
+  "BasePath": "_content/DinhLePhat_2122110069",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DinhLePhat_2122110069\\wwwroot",
+      "Source": "DinhLePhat_2122110069",
+      "ContentRoot": "D:\\ASP\\DinhLePhat_2122110069\\DinhLePhat_2122110069_1\\wwwroot\\",
+      "BasePath": "_content/DinhLePhat_2122110069",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
